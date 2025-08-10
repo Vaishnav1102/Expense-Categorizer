@@ -1,1 +1,1 @@
-# EXPENSE-CATOGORIZER
+# Expense-Categorizer
